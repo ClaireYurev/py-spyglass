@@ -29,9 +29,9 @@ Markdown
 🚀 Usage: Unleash the Power! 🚀
 Prepare for the revelation! Navigate to the directory you wish to explore (the one containing the script or where you want the output to be saved) and simply invoke the incantation:
 
-python your_script_name.py
-Use code with caution.
-Bash
+```bash
+py-spyglass.py
+
 Witness as PySpyglass springs into action, diligently analyzing the surrounding landscape! A .pyignore file in the target directory? Fear not, it will be heeded! A majestic JSON file, named with the current date and time, will appear, containing the illuminated structure of your folders.
 
 For example, if you run it today, the output might be something like: directory-structure-2023-10-27-14-30-00.txt (or whatever time it happens to be when you unleash the magic!).
