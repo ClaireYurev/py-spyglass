@@ -1,0 +1,34 @@
+# Modified syntax: (NO SLASHES PLEASE)! See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# The script itself and its supporting files
+*.py
+*.txt
+.pyignore
+
+# git folders (NO SLASHES PLEASE)
+.git
+
+# dependencies folders  (NO SLASHES PLEASE)
+node_modules
+
+# next.js folders (NO SLASHES PLEASE)
+.next
+out
+
+# production folders (NO SLASHES PLEASE)
+build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (INCLUDING FOR NOW)
+
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
