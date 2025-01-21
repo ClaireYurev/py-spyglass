@@ -51,7 +51,7 @@ folder_to_ignore will magically vanish.
 
 secret_file.txt will remain unseen.
 
-/root_folder_to_ignore will exclude that specific folder at the root level of the scan.
+root_folder_to_ignore will exclude that specific folder at the root level of the scan. (No Slashes Please)
 
 *.log will cloak all log files from view.
 
