@@ -21,8 +21,10 @@ This magnificent Python script doesn't just list your files and folders – oh n
 Fear not, for summoning this power is as simple as chanting these magical incantations (commands):
 
 ```bash
-git clone [Your Repository URL Here, Once You Create It!]
-cd PySpyglass  # Or whatever glorious name you bestow upon the folder
+git clone https://github.com/ClaireYurev/py-spyglass
+cd py-spyglass  # Or whatever glorious name you bestow upon the folder
+```
+
 # (No actual installation needed, it's pure Python magic!)
 Use code with caution.
 Markdown
@@ -31,6 +33,7 @@ Prepare for the revelation! Navigate to the directory you wish to explore (the o
 
 ```bash
 py-spyglass.py
+```
 
 Witness as PySpyglass springs into action, diligently analyzing the surrounding landscape! A .pyignore file in the target directory? Fear not, it will be heeded! A majestic JSON file, named with the current date and time, will appear, containing the illuminated structure of your folders.
 
