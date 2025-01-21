@@ -23,6 +23,7 @@ Fear not, for summoning this power is as simple as chanting these magical incant
 ```bash
 git clone https://github.com/ClaireYurev/py-spyglass
 ```
+Then:
 ```bash
 cd py-spyglass  # Or whatever glorious name you bestow upon the folder
 ```
