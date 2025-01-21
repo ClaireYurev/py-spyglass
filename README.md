@@ -1,8 +1,10 @@
-# ✨ Behold! The Atomic Directory Decoder Ring ✨
+
 
 # 🌟 PySpyglass: Prepare to be Illuminated! 🌟
 
-**Behold!**  Are you tired of blindly stumbling through the labyrinthine corridors of your project's file system? Do you yearn for a crystal-clear, JSON-ified vision of your directory's destiny? Then gaze no further, intrepid explorer, for **PySpyglass** has arrived to banish the darkness and bathe your folders in the radiant light of structured data!
+## ✨ Behold! The Atomic Directory Decoder Ring ✨
+
+Are you tired of blindly stumbling through the labyrinthine corridors of your project's file system? Do you yearn for a crystal-clear, JSON-ified vision of your directory's destiny? Then gaze no further, intrepid explorer, for **PySpyglass** has arrived to banish the darkness and bathe your folders in the radiant light of structured data!
 
 This magnificent Python script doesn't just list your files and folders – oh no, it orchestrates a **grand symphony of directory dissection**! It fearlessly dives deep into the hierarchical heart of your project, emerging with a **beautifully crafted JSON blueprint**, ready for your analytical or programmatic whims.
 
