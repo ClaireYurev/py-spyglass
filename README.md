@@ -1,6 +1,6 @@
-✨ PySpyglass: Behold! The Atomic Directory Decoder Ring! ✨
+# ✨ PySpyglass: Behold! The Atomic Directory Decoder Ring ✨
 
-# 🌟 PySpyglass:  Prepare to be Illuminated! 🌟
+# 🌟 Prepare to be Illuminated! 🌟
 
 **Behold!**  Are you tired of blindly stumbling through the labyrinthine corridors of your project's file system? Do you yearn for a crystal-clear, JSON-ified vision of your directory's destiny? Then gaze no further, intrepid explorer, for **PySpyglass** has arrived to banish the darkness and bathe your folders in the radiant light of structured data!
 
