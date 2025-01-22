@@ -1,6 +1,6 @@
 
 
-# 🌟 PySpyglass: Prepare for Concatenation! 🌟
+# 🌟 PySpyglass: Prepare to be Illuminated! 🌟
 
 ## ✨ Behold! The Atomic Directory Decoder Ring ✨
 
